@@ -1,0 +1,5 @@
+a100
+true
+c
+10.5
+sachin tendulkar
